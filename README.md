@@ -8,7 +8,9 @@ Raise a Pr to merge your changes in my files */
 Download latest terrafom and aws cli in your machine to run this script
 
 Download-Install terraform -  https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli?wvideo=r3yytnk1pr
+
 Downalod-Install aws-cli   -  https://youtu.be/jCHOsMPbcV0?t=36 
+
 
 --> Now Configure your aws-cli with your own access and private keys using "aws configure" command <--
 
