@@ -1,6 +1,6 @@
-Create a resource aws_instance
-Create a resource security_group if required access from ssh http and https 
-Create a key pair and attach to aws_instance if required to access from local machine use private key
+Creating a resource aws_instance
+Creating a resource security_group if required access from ssh http and https 
+Creating a key pair and attach to aws_instance if required to access from local machine use private key
 
 Before accessing from local
 Change the private key permission using below commands
